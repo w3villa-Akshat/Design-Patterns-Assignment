@@ -1,4 +1,4 @@
- # Tiny Office System (Design Pattern Assignment)
+ # Design Pattern Assignment
 
 This project demonstrates three design patterns:
 
